@@ -37,7 +37,7 @@ image:
 <td>
 [Russell10] Chap 3 (<a href= "http://aima.eecs.berkeley.edu/slides-pdf/chapter03.pdf">slides</a>) <br>
 [AI-edX] Agents and Search (<a href= "http://cs188websitecontent.s3.amazonaws.com/lectures/fa13-cs188-lecture-2-1PP.pdf">slides</a>) (<a href= "https://courses.edx.org/courses/BerkeleyX/CS188x_1/1T2013/courseware/eafff8d8427440069a749c1b825c0561/7c56230af88d467c9737344e2e76092e/">video</a>)<br>
-Uninformed search (<a href= "https://github.com/fagonzalezo/is-2016-1/blob/gh-pages/search_methods.ipynb">Python notebook</a>)<br>
+Search methods (<a href= "https://github.com/fagonzalezo/is-2016-1/blob/gh-pages/search_methods.ipynb">Python notebook</a>)<br>
 </td>
 <td>
 </td>
@@ -45,13 +45,27 @@ Uninformed search (<a href= "https://github.com/fagonzalezo/is-2016-1/blob/gh-pa
 
 <tr>
 <td>Feb 17</td>
-<td></td>
+<td>2.1 Search</td>
 <td>
+[Russell10] Chap 3 (<a href= "http://aima.eecs.berkeley.edu/slides-pdf/chapter03.pdf">slides</a>) <br>
+[AI-edX] A* Search and Heuristics (<a href= "http://cs188websitecontent.s3.amazonaws.com/lectures/fa13-cs188-lecture-3-1PP.pdf">slides</a>) (<a href= "https://courses.edx.org/courses/BerkeleyX/CS188x_1/1T2013/courseware/eafff8d8427440069a749c1b825c0561/76f9a53b7aad47638ff968db5938d841/">video</a>)<br>
+Search methods (<a href= "https://github.com/fagonzalezo/is-2016-1/blob/gh-pages/search_methods.ipynb">Python notebook</a>)<br>
+</td>
+<td>
+<a href= "http://fagonzalezo.github.io/is-2016-1/assign1.pdf">Assignment 1</a><br>
+</td>
+</tr>
+
+<tr>
+<td>Feb 24</td>
+<td>2.2 Adversarial search</td>
+<td>
+[Russell10] Chap 5 (<a href= "http://aima.eecs.berkeley.edu/slides-pdf/chapter05.pdf">slides</a>) <br>
+[AI-edX] Game Trees: Minimax (<a href= "http://cs188websitecontent.s3.amazonaws.com/lectures/fa13-cs188-lecture-6-1PP.pdf">slides</a>) (<a href= "https://courses.edx.org/courses/BerkeleyX/CS188x_1/1T2013/courseware/e388ea8629ff4228845b54d70ffc8afd/8616451481ba41d4a40afcf13bc8ab1c/">video</a>)<br>
 </td>
 <td>
 </td>
 </tr>
-
 
 </small>
 </tbody>
