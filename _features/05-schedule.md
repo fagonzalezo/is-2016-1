@@ -64,6 +64,7 @@ Search methods (<a href= "https://github.com/fagonzalezo/is-2016-1/blob/gh-pages
 [AI-edX] Game Trees: Minimax (<a href= "http://cs188websitecontent.s3.amazonaws.com/lectures/fa13-cs188-lecture-6-1PP.pdf">slides</a>) (<a href= "https://courses.edx.org/courses/BerkeleyX/CS188x_1/1T2013/courseware/e388ea8629ff4228845b54d70ffc8afd/8616451481ba41d4a40afcf13bc8ab1c/">video</a>)<br>
 </td>
 <td>
+Adversarial search and games lab (<a href= "https://github.com/fagonzalezo/is-2016-1/blob/gh-pages/games.ipynb">Python notebook</a>)<br>
 </td>
 </tr>
 
