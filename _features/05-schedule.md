@@ -71,18 +71,29 @@ Adversarial search and games lab <br>
 
 <tr>
 <td>Mar 2</td>
-<td>3.1 Probability <br>
-3.2 Probabilistic reasoning
+<td>3.1 Probability
 </td>
 <td>
-[Russell10] Chap 13 (<a href= "http://aima.eecs.berkeley.edu/slides-pdf/chapter13.pdf">slides</a>), Chap 14 (<a href= "http://aima.eecs.berkeley.edu/slides-pdf/chapter14.pdf">slides</a>) <br>
+[Russell10] Chap 13 (<a href= "http://aima.eecs.berkeley.edu/slides-pdf/chapter13.pdf">slides</a>)<br>
 [AI-edX] Probability (<a href= "http://cs188websitecontent.s3.amazonaws.com/lectures/fa13-cs188-lecture-12-1PP.pdf">slides</a>) (<a href= "https://courses.edx.org/courses/BerkeleyX/CS188x_1/1T2013/courseware/e07c09452f5845de8277d70512009fa2/4d1a43c6bcc7472db14a00258732cf8d/">video</a>)<br>
-[AI-edX] Bayes' Nets: Representation (<a href= "http://cs188websitecontent.s3.amazonaws.com/lectures/fa13-cs188-lecture-14-1PP.pdf">slides</a>) (<a href= "https://courses.edx.org/courses/BerkeleyX/CS188x_1/1T2013/courseware/741f4647a714422a8028a776e041071c/57c93f3102a348d5ab0e0712979392f7/">video</a>)<br>
 </td>
 <td>
 </td>
 </tr>
 
+<tr>
+<td>Mar 9</td>
+<td>
+3.2 Probabilistic reasoning
+</td>
+<td>
+Chap 14 (<a href= "http://aima.eecs.berkeley.edu/slides-pdf/chapter14.pdf">slides</a>) <br>
+[AI-edX] Bayes' Nets: Representation (<a href= "http://cs188websitecontent.s3.amazonaws.com/lectures/fa13-cs188-lecture-13-1PP.pdf">slides</a>) (<a href= "https://courses.edx.org/courses/BerkeleyX/CS188x_1/1T2013/courseware/741f4647a714422a8028a776e041071c/57c93f3102a348d5ab0e0712979392f7/">video</a>)<br>
+[AI-edX] Bayes' Nets: Independence (<a href= "http://cs188websitecontent.s3.amazonaws.com/lectures/fa13-cs188-lecture-14-1PP.pdf">slides</a>) (<a href= "https://courses.edx.org/courses/BerkeleyX/CS188x_1/1T2013/courseware/741f4647a714422a8028a776e041071c/b7b4dc01c237439980ed9658efdbed68/">video</a>)<br>
+</td>
+<td>
+</td>
+</tr>
 </small>
 </tbody>
 </table>
