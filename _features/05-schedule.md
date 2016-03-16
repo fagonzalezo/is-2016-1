@@ -94,6 +94,21 @@ Chap 14 (<a href= "http://aima.eecs.berkeley.edu/slides-pdf/chapter14.pdf">slide
 <td>
 </td>
 </tr>
+
+<tr>
+<td>Mar 16</td>
+<td>
+3.2 Probabilistic reasoning
+</td>
+<td>
+Chap 14 (<a href= "http://aima.eecs.berkeley.edu/slides-pdf/chapter14.pdf">slides</a>) <br>
+[AI-edX] Bayes' Nets: Inference (<a href= "http://cs188websitecontent.s3.amazonaws.com/lectures/fa13-cs188-lecture-15-1PP.pdf">slides</a>) (<a href= "https://courses.edx.org/courses/BerkeleyX/CS188x_1/1T2013/courseware/141d66503de5484fb7d26895b67149c1/e83b8da087dc4430abc105a61f4b6187/">video</a>)<br>
+[AI-edX]Bayes' Nets: Sampling (<a href= "http://cs188websitecontent.s3.amazonaws.com/lectures/fa13-cs188-lecture-16-1PP.pdf">slides</a>) (<a href= "https://courses.edx.org/courses/BerkeleyX/CS188x_1/1T2013/courseware/141d66503de5484fb7d26895b67149c1/ef18d10cd8324ae1984b2df59657f02a/">video</a>)<br>
+</td>
+<td>
+</td>
+</tr>
+
 </small>
 </tbody>
 </table>
