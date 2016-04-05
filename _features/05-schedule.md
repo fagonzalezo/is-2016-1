@@ -87,7 +87,7 @@ Adversarial search and games lab <br>
 3.2 Probabilistic reasoning
 </td>
 <td>
-Chap 14 (<a href= "http://aima.eecs.berkeley.edu/slides-pdf/chapter14.pdf">slides</a>) <br>
+[Russell10] Chap 14 (<a href= "http://aima.eecs.berkeley.edu/slides-pdf/chapter14.pdf">slides</a>) <br>
 [AI-edX] Bayes' Nets: Representation (<a href= "http://cs188websitecontent.s3.amazonaws.com/lectures/fa13-cs188-lecture-13-1PP.pdf">slides</a>) (<a href= "https://courses.edx.org/courses/BerkeleyX/CS188x_1/1T2013/courseware/741f4647a714422a8028a776e041071c/57c93f3102a348d5ab0e0712979392f7/">video</a>)<br>
 [AI-edX] Bayes' Nets: Independence (<a href= "http://cs188websitecontent.s3.amazonaws.com/lectures/fa13-cs188-lecture-14-1PP.pdf">slides</a>) (<a href= "https://courses.edx.org/courses/BerkeleyX/CS188x_1/1T2013/courseware/741f4647a714422a8028a776e041071c/b7b4dc01c237439980ed9658efdbed68/">video</a>)<br>
 </td>
@@ -101,9 +101,40 @@ Chap 14 (<a href= "http://aima.eecs.berkeley.edu/slides-pdf/chapter14.pdf">slide
 3.2 Probabilistic reasoning
 </td>
 <td>
-Chap 14 (<a href= "http://aima.eecs.berkeley.edu/slides-pdf/chapter14.pdf">slides</a>) <br>
+[Russell10] Chap 14 (<a href= "http://aima.eecs.berkeley.edu/slides-pdf/chapter14.pdf">slides</a>) <br>
 [AI-edX] Bayes' Nets: Inference (<a href= "http://cs188websitecontent.s3.amazonaws.com/lectures/fa13-cs188-lecture-15-1PP.pdf">slides</a>) (<a href= "https://courses.edx.org/courses/BerkeleyX/CS188x_1/1T2013/courseware/141d66503de5484fb7d26895b67149c1/e83b8da087dc4430abc105a61f4b6187/">video</a>)<br>
 [AI-edX]Bayes' Nets: Sampling (<a href= "http://cs188websitecontent.s3.amazonaws.com/lectures/fa13-cs188-lecture-16-1PP.pdf">slides</a>) (<a href= "https://courses.edx.org/courses/BerkeleyX/CS188x_1/1T2013/courseware/141d66503de5484fb7d26895b67149c1/ef18d10cd8324ae1984b2df59657f02a/">video</a>)<br>
+[Alp10] Chap 16 (<a href= "http://www.cmpe.boun.edu.tr/~ethem/i2ml2e/2e_v1-0/i2ml2e-chap16-v1-0.pdf">slides</a>)<br>
+</td>
+<td>
+</td>
+</tr>
+
+<tr>
+<td>Mar 30</td>
+<td>
+3.3 Hidden Markov models
+</td>
+<td>
+[Russell10] Chap 15 (<a href= "http://aima.eecs.berkeley.edu/slides-pdf/chapter15.pdf">slides</a>) <br>
+[AI-edX] HMMs: Filtering (<a href= "http://cs188websitecontent.s3.amazonaws.com/lectures/fa13-cs188-lecture-18-1PP.pdf">slides</a>) (<a href= "https://courses.edx.org/courses/BerkeleyX/CS188x_1/1T2013/courseware/a1335497b2a04c0e934ec324563e69aa/d536e021c6694647880977112e8ca6c7/">video</a>)<br>
+[Alp10] Chap 15 (<a href= "http://www.cmpe.boun.edu.tr/~ethem/i2ml2e/2e_v1-0/i2ml2e-chap15-v1-0.pdf">slides</a>)<br>
+</td>
+<td>
+<a href= "http://fagonzalezo.github.io/is-2016-1/assign2.pdf">Assignment 2</a><br>
+</td>
+</tr>
+
+<tr>
+<td>Apr 6</td>
+<td>
+4.1 Supervised learning
+</td>
+<td>
+[Russell10] Chap 20 (<a href= "http://aima.eecs.berkeley.edu/slides-pdf/chapter20.pdf">slides</a>) <br>
+[AI-edX] ML: Naive Bayes (<a href= "http://cs188websitecontent.s3.amazonaws.com/lectures/fa13-cs188-lecture-20-1PP.pdf">slides</a>) (<a href= "https://courses.edx.org/courses/BerkeleyX/CS188x_1/1T2013/courseware/9fa61ebf2e90449cbabb0f649b0469d5/a498b076bfea42559a6d2b3a34aefc5e/">video</a>)<br>
+[Russell10] Chap 18 (<a href= "http://aima.eecs.berkeley.edu/slides-pdf/chapter18.pdf">slides</a>) <br>
+[AI-edX] ML: Perceptrons (<a href= "http://cs188websitecontent.s3.amazonaws.com/lectures/fa13-cs188-lecture-21-1PP.pdf">slides</a>) (<a href= "https://courses.edx.org/courses/BerkeleyX/CS188x_1/1T2013/courseware/95cdab0f65984c74a2031911fbacc7e8/b1a66fb0b94f4e689a2cd47cc2177bf8/">video</a>)<br>
 </td>
 <td>
 </td>

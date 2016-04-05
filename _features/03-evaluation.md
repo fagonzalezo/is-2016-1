@@ -6,9 +6,8 @@ subheading:
 image: 
 ---
 
-* Assignments 40%
+* Assignments 50%
 * Exams 30%
-* Presentation 15%
-* Final project 15%
+* Final project 20%
 
-Grades
+[Grades](https://docs.google.com/a/unal.edu.co/spreadsheets/d/1X3AIRGyU5XcKUrjRxUTQ1UhMT-P2NhRdx38RfDqg0ls/pubhtml?gid=701000224&single=true)

@@ -28,9 +28,9 @@ image:
 
 4 **Learning**
 
-4.1 Introduction to machine learning
+4.1 Supervised learning
 
-4.2 Supervised learning
+4.2 Non-Supervised learning
 
 4.3 Reinforcement learning
 
