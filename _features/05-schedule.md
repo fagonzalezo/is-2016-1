@@ -166,7 +166,7 @@ Quick and dirty introduction to neural networks (<a href= "https://gist.github.c
 </td>
 <td>
 [AI-edX] ML: Kernels and Clustering (<a href= "http://cs188websitecontent.s3.amazonaws.com/lectures/fa13-cs188-lecture-22-1PP.pdf">slides</a>) (<a href= "https://courses.edx.org/courses/BerkeleyX/CS188x_1/1T2013/courseware/95cdab0f65984c74a2031911fbacc7e8/3794221ac77445febc9875a790fb3141/">video</a>)<br>
-[Alp10] Chap 7 (<a href= "http://www.cmpe.boun.edu.tr/~ethem/i2ml2e/2e_v1-0/i2ml2e-chap7-v1-0.pdf">slides</
+[Alp10] Chap 7 (<a href= "http://www.cmpe.boun.edu.tr/~ethem/i2ml2e/2e_v1-0/i2ml2e-chap7-v1-0.pdf">slides</a>)<br>
 </td>
 <td>
 </td>
