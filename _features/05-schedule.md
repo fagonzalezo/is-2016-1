@@ -131,9 +131,9 @@ Adversarial search and games lab <br>
 4.1 Supervised learning
 </td>
 <td>
-[Russell10] Chap 20 (<a href= "http://aima.eecs.berkeley.edu/slides-pdf/chapter20.pdf">slides</a>) <br>
+[Russell10] Chap 20 (<a href= "http://aima.eecs.berkeley.edu/slides-pdf/chapter20a.pdf">slides</a>) <br>
 [AI-edX] ML: Naive Bayes (<a href= "http://cs188websitecontent.s3.amazonaws.com/lectures/fa13-cs188-lecture-20-1PP.pdf">slides</a>) (<a href= "https://courses.edx.org/courses/BerkeleyX/CS188x_1/1T2013/courseware/9fa61ebf2e90449cbabb0f649b0469d5/a498b076bfea42559a6d2b3a34aefc5e/">video</a>)<br>
-[Russell10] Chap 18 (<a href= "http://aima.eecs.berkeley.edu/slides-pdf/chapter18.pdf">slides</a>) <br>
+[Russell10] Chap 18 (<a href= "http://aima.eecs.berkeley.edu/slides-pdf/chapter20b.pdf">slides</a>) <br>
 [AI-edX] ML: Perceptrons (<a href= "http://cs188websitecontent.s3.amazonaws.com/lectures/fa13-cs188-lecture-21-1PP.pdf">slides</a>) (<a href= "https://courses.edx.org/courses/BerkeleyX/CS188x_1/1T2013/courseware/95cdab0f65984c74a2031911fbacc7e8/b1a66fb0b94f4e689a2cd47cc2177bf8/">video</a>)<br>
 [Alp10] Chap 11 (<a href= "http://www.cmpe.boun.edu.tr/~ethem/i2ml2e/2e_v1-0/i2ml2e-chap11-v1-0.pdf">slides</a>)<br>
 Quick and dirty introduction to neural networks<br>
