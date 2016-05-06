@@ -22,8 +22,6 @@ image:
 <td>
 [Russell10] Chap 1 (<a href= "http://aima.eecs.berkeley.edu/slides-pdf/chapter01.pdf">slides</a>)  and 2 (<a href= "http://aima.eecs.berkeley.edu/slides-pdf/chapter02.pdf">slides</a>) <br>
 [AI-edX] Introduction to AI (<a href= "http://cs188websitecontent.s3.amazonaws.com/lectures/fa13-cs188-lecture-1-1PP.pdf">slides</a>) (<a href= "https://courses.edx.org/courses/BerkeleyX/CS188x_1/1T2013/courseware/c78976d210314651abb740912d8279bb/b414886f442a41e4b5fd0408de837e53/">video</a>)<br>
-
-
 </td>
 <td>
 [AI-edX] <a href= "https://courses.edx.org/courses/BerkeleyX/CS188x_1/1T2013/courseware/c78976d210314651abb740912d8279bb/5bf447e1a55f4699a6e313680f16e9df/">Math Self-Diagnostic</a><br>
@@ -157,6 +155,37 @@ Quick and dirty introduction to neural networks<br>
 </td>
 </tr>
 
+<tr>
+<td>Apr 27</td>
+<td>
+4.3 Reinforcement learning
+</td>
+<td>
+[Russell10] Chap 17<br>
+[AI-edX] Markov Decision Processes (<a href= "http://cs188websitecontent.s3.amazonaws.com/lectures/fa13-cs188-lecture-8-1PP.pdf">slides</a>) (<a href= "https://courses.edx.org/courses/BerkeleyX/CS188x_1/1T2013/courseware/49f4667aceef4ee982cce2250e17d605/99f9c610429f40e1882dd2bfa7deb957/">video</a>)<br>
+[AI-edX] Markov Decision Processes II(<a href= "http://cs188websitecontent.s3.amazonaws.com/lectures/fa13-cs188-lecture-9-1PP.pdf">slides</a>) (<a href= "https://courses.edx.org/courses/BerkeleyX/CS188x_1/1T2013/courseware/49f4667aceef4ee982cce2250e17d605/0c7a5f8e1ceb43b5ae45544511eb11dc/">video</a>)<br>
+</td>
+<td>
+[AI-edX] <a href= "https://courses.edx.org/courses/BerkeleyX/CS188x_1/1T2013/courseware/49f4667aceef4ee982cce2250e17d605/25829128a13347cfb8d724e8c348484a/">HW4</a><br>
+</td>
+</tr>
+
+<tr>
+<td>May 4</td>
+<td>
+4.3 Reinforcement learning
+</td>
+<td>
+[Russell10] Chap 21<br>
+[AI-edX] Reinforcement Learning (<a href= "http://cs188websitecontent.s3.amazonaws.com/lectures/fa13-cs188-lecture-10-1PP.pdf">slides</a>) (<a href= "https://courses.edx.org/courses/BerkeleyX/CS188x_1/1T2013/courseware/817468c509ef4b64bcb74cd38766ac44/aa2fe795e9594a96a18b7cf9a3cbcd21/">video</a>)<br>
+[AI-edX] Reinforcement Learning II(<a href= "http://cs188websitecontent.s3.amazonaws.com/lectures/fa13-cs188-lecture-11-1PP.pdf">slides</a>) (<a href= "https://courses.edx.org/courses/BerkeleyX/CS188x_1/1T2013/courseware/817468c509ef4b64bcb74cd38766ac44/bacdd072711c44f991c73bd55b8cdd03/">video</a>)<br>
+[Alp10] Chap 18 (<a href= "http://www.cmpe.boun.edu.tr/~ethem/i2ml2e/2e_v1-0/i2ml2e-chap18-v1-0.pdf">slides</a>)<br>
+[Sutton98] (<a href= "https://webdocs.cs.ualberta.ca/~sutton/book/ebook/the-book.html">html</a>) (<a href= "https://www.dropbox.com/s/b3psxv2r0ccmf80/book2015oct.pdf?dl=0">pdf</a>)<br>
+</td>
+<td>
+[AI-edX] <a href= "https://courses.edx.org/courses/BerkeleyX/CS188x_1/1T2013/courseware/817468c509ef4b64bcb74cd38766ac44/8f12a00e153c437f8e36b0c649af8be3/">HW5</a><br>
+</td>
+</tr>
 
 </small>
 </tbody>
