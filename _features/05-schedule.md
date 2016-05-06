@@ -164,6 +164,7 @@ Quick and dirty introduction to neural networks<br>
 [Russell10] Chap 17<br>
 [AI-edX] Markov Decision Processes (<a href= "http://cs188websitecontent.s3.amazonaws.com/lectures/fa13-cs188-lecture-8-1PP.pdf">slides</a>) (<a href= "https://courses.edx.org/courses/BerkeleyX/CS188x_1/1T2013/courseware/49f4667aceef4ee982cce2250e17d605/99f9c610429f40e1882dd2bfa7deb957/">video</a>)<br>
 [AI-edX] Markov Decision Processes II(<a href= "http://cs188websitecontent.s3.amazonaws.com/lectures/fa13-cs188-lecture-9-1PP.pdf">slides</a>) (<a href= "https://courses.edx.org/courses/BerkeleyX/CS188x_1/1T2013/courseware/49f4667aceef4ee982cce2250e17d605/0c7a5f8e1ceb43b5ae45544511eb11dc/">video</a>)<br>
+[aima-python] Markov Decision Processes (<a href= "https://github.com/aimacode/aima-python/blob/master/mdp.ipynb">notebook</a>) (<a href= "https://github.com/aimacode/aima-python/blob/master/mdp.py">code</a>)<br>
 </td>
 <td>
 [AI-edX] <a href= "https://courses.edx.org/courses/BerkeleyX/CS188x_1/1T2013/courseware/49f4667aceef4ee982cce2250e17d605/25829128a13347cfb8d724e8c348484a/">HW4</a><br>
@@ -184,6 +185,7 @@ Quick and dirty introduction to neural networks<br>
 </td>
 <td>
 [AI-edX] <a href= "https://courses.edx.org/courses/BerkeleyX/CS188x_1/1T2013/courseware/817468c509ef4b64bcb74cd38766ac44/8f12a00e153c437f8e36b0c649af8be3/">HW5</a><br>
+[aima-python] Reinforcement Learning (<a href= "https://github.com/aimacode/aima-python/blob/master/rl.ipynb">notebook</a>) (<a href= "https://github.com/aimacode/aima-python/blob/master/rl.py">code</a>)<br>
 </td>
 </tr>
 
