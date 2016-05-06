@@ -182,10 +182,10 @@ Quick and dirty introduction to neural networks<br>
 [AI-edX] Reinforcement Learning II(<a href= "http://cs188websitecontent.s3.amazonaws.com/lectures/fa13-cs188-lecture-11-1PP.pdf">slides</a>) (<a href= "https://courses.edx.org/courses/BerkeleyX/CS188x_1/1T2013/courseware/817468c509ef4b64bcb74cd38766ac44/bacdd072711c44f991c73bd55b8cdd03/">video</a>)<br>
 [Alp10] Chap 18 (<a href= "http://www.cmpe.boun.edu.tr/~ethem/i2ml2e/2e_v1-0/i2ml2e-chap18-v1-0.pdf">slides</a>)<br>
 [Sutton98] (<a href= "https://webdocs.cs.ualberta.ca/~sutton/book/ebook/the-book.html">html</a>) (<a href= "https://www.dropbox.com/s/b3psxv2r0ccmf80/book2015oct.pdf?dl=0">pdf</a>)<br>
+[aima-python] Reinforcement Learning (<a href= "https://github.com/aimacode/aima-python/blob/master/rl.ipynb">notebook</a>) (<a href= "https://github.com/aimacode/aima-python/blob/master/rl.py">code</a>)<br>
 </td>
 <td>
 [AI-edX] <a href= "https://courses.edx.org/courses/BerkeleyX/CS188x_1/1T2013/courseware/817468c509ef4b64bcb74cd38766ac44/8f12a00e153c437f8e36b0c649af8be3/">HW5</a><br>
-[aima-python] Reinforcement Learning (<a href= "https://github.com/aimacode/aima-python/blob/master/rl.ipynb">notebook</a>) (<a href= "https://github.com/aimacode/aima-python/blob/master/rl.py">code</a>)<br>
 </td>
 </tr>
 
