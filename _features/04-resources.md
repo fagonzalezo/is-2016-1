@@ -6,7 +6,7 @@ subheading:
 image: 
 ---
 
-### References
+### References and resources
 
 
 * [Russell10] Russell, S and Norvig, P. 2010 [Artificial Intelligence: a Modern Approach](http://aima.cs.berkeley.edu/), 3rd Ed, Prentice-Hall
@@ -16,6 +16,4 @@ image:
 * [Sutton98] Sutton, R. and Barto, A. [Reinforcement Learning:
 An Introduction](https://webdocs.cs.ualberta.ca/~sutton/book/the-book.html), The MIT Press, 1998
 * [aima-python] [Python code for the book Artificial Intelligence: A Modern Approach](https://github.com/aimacode/aima-python), GitHub repository
-
-### Additional resources
 
